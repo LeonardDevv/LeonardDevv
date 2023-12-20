@@ -2,6 +2,8 @@
 
 👩‍🦱 I'm Senior FullStack Developer & Career Mentor focused on helping people to start programming!
 
+<br>
+
 You can find me here too 👇
 
 <div>
