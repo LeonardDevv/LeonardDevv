@@ -1,6 +1,17 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
-👩‍🦱 I'm Senior FullStack Developer & Career Mentor focused on helping people to start programming!
+Me chamo Leonardo e estou mergulhando no fascinante mundo da programação. Atualmente, estou consolidando meus conhecimentos em HTML5, explorando as possibilidades estilísticas do CSS3 e aprimorando minhas habilidades de lógica de programação com JavaScript. Recentemente, tenho me dedicado ao aprendizado de TypeScript para levar meu desenvolvimento para o próximo nível.
+
+🚀 **Em Busca de Oportunidades:** Estou entusiasmado em transformar meu amor pela codificação em uma carreira sólida como desenvolvedor de software. Procuro oportunidades de emprego onde possa contribuir e continuar crescendo nesse universo dinâmico.
+
+🛠️ **Tecnologias que Estou Explorando:**
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+
+🌱 **Aprendizado Contínuo:** Acredito firmemente na importância do aprendizado contínuo e estou sempre buscando novos desafios para aprimorar minhas habilidades e expandir meu conhecimento.
+
 
 <br>
 
