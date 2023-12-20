@@ -4,8 +4,6 @@
 
 You can find me here too 👇
 
-<br>
-
 <div>
 
 <a href="https://www.linkedin.com/in/julianaconde/" target="_blank">
